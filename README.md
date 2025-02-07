@@ -191,8 +191,8 @@ Search Functionality:
 ---
 
 ## Project file structure:
--MainWindow.xaml.cs and MainWindow.xaml: Main menu navigation
--ReportIssuesWindow.xaml.cs and .xaml: window for reporting issues
+- MainWindow.xaml.cs and MainWindow.xaml: Main menu navigation
+- ReportIssuesWindow.xaml.cs and .xaml: window for reporting issues
 -LocalEventsWindow.xaml.cs and .xaml: Window for viewing all events
 -ServiceRequestStausForm.xaml.cs and .xaml: Form for viewing details of service requests
 -StatusHeap.cs: for managing and prioritizing service request statuses
@@ -204,7 +204,7 @@ Search Functionality:
 - Fronted designed with WPF(XAML). and backend designed with C#
 -User interface has a consistent and pleasant colour scheme.
 -backend contains numerous data structures such as heaps, trees, dictionaries
--
+
 
 ## Code Attribution
 - Video Title: C# WPF UI | How to Design Input Form in WPF | Data Entry Form App
