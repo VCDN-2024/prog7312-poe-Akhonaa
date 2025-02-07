@@ -202,8 +202,8 @@ Search Functionality:
 
 ## More technical Information:
 - Fronted designed with WPF(XAML). and backend designed with C#
--User interface has a consistent and pleasant colour scheme.
--backend contains numerous data structures such as heaps, trees, dictionaries
+- User interface has a consistent and pleasant colour scheme.
+- backend contains numerous data structures such as heaps, trees, dictionaries
 
 
 ## Code Attribution
