@@ -193,12 +193,12 @@ Search Functionality:
 ## Project file structure:
 - MainWindow.xaml.cs and MainWindow.xaml: Main menu navigation
 - ReportIssuesWindow.xaml.cs and .xaml: window for reporting issues
--LocalEventsWindow.xaml.cs and .xaml: Window for viewing all events
--ServiceRequestStausForm.xaml.cs and .xaml: Form for viewing details of service requests
--StatusHeap.cs: for managing and prioritizing service request statuses
--StatusHistoryTree.cs: tree used to store service request parameters
--StatusHistoryWindow.cs: the UI component that presents status history data
--FilterWindow.xaml.cs and .xaml: Window for filtering search results for the events/announcements
+- LocalEventsWindow.xaml.cs and .xaml: Window for viewing all events
+- ServiceRequestStausForm.xaml.cs and .xaml: Form for viewing details of service requests
+- StatusHeap.cs: for managing and prioritizing service request statuses
+- StatusHistoryTree.cs: tree used to store service request parameters
+- StatusHistoryWindow.cs: the UI component that presents status history data
+- FilterWindow.xaml.cs and .xaml: Window for filtering search results for the events/announcements
 
 ## More technical Information:
 - Fronted designed with WPF(XAML). and backend designed with C#
