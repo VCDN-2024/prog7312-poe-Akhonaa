@@ -169,6 +169,8 @@ reportedIssues.Add(report);
 
 
 ## Smart Recommendations and Local Events Feature(Updated)
+![image](https://github.com/user-attachments/assets/0d29aadc-66ef-463a-8962-90d602c5ae1d)
+
 The "Smart Recommendations" feature analyzes user search history and preferences using data structures like sets or custom algorithms to suggest relevant events.
 this feature has been updated from the previous part- the Smart recommendations list accumulates rather than reseting after searching for different events. 
 
