@@ -139,13 +139,15 @@ reportedIssues.Add(report);
 **Usage**: The heap is used to prioritize service requests based on urgency (priority levels: High, Medium, Low).
 **Implementation**: A Priority Queue was implemented using a Min-Heap, ensuring that high-priority requests (e.g., "High") are processed before lower-priority ones (e.g., "Medium" and "Low").
 
+![image](https://github.com/user-attachments/assets/0cc28028-7dd6-4a22-9d67-34e40417b389)
+
 ### 5. **Treeview**
 **Usage**: The TreeView displays grouped statuses using the sorted data from StatusHeap.
 
 ## **Max heap**
 - **Usage**: is in charge of using a max-heap structure to manage and prioritize service request statuses. It arranges statuses according to recency (more recent updates take precedence) and urgency (Critical being the highest priority). It offers ways to add, remove, and filter statuses. 
 
-Prioritized issues Heap: ![image](https://github.com/user-attachments/assets/0cc28028-7dd6-4a22-9d67-34e40417b389)
+
 
 
 
